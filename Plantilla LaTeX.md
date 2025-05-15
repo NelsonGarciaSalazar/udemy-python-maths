@@ -28,3 +28,14 @@ La derivada de una función cuadrática $f(x) = x^2$ es:
 $$
 f'(x) = 2x
 $$
+
+## CalcES calculadora Web
+En la pagina página de a calculadora CalcES se puede escribir la formula y copiar la expresión a LaTeX
+
+$
+\int_{ 0 }^{ 10 }\left(  { e }^{ x } \times  \cos  ( x )  \right)  d  x 
+$
+
+$$
+\int {e}^{x} dx
+$$
